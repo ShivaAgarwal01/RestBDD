@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-29T10:23:25 IST" name="Default suite" finished-at="2023-04-29T10:23:29 IST" duration-ms="3609">
+    <groups>
+    </groups>
+    <test started-at="2023-04-29T10:23:25 IST" name="Default test" finished-at="2023-04-29T10:23:29 IST" duration-ms="3609">
+      <class name="restassuredTest.Demo6_BasicValidations_XML">
+        <test-method signature="testSingleContent()[pri:1, instance:restassuredTest.Demo6_BasicValidations_XML@55b7a4e0]" started-at="2023-04-29T10:23:25 IST" name="testSingleContent" finished-at="2023-04-29T10:23:27 IST" duration-ms="1872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSingleContent -->
+        <test-method signature="testMultipleContents()[pri:2, instance:restassuredTest.Demo6_BasicValidations_XML@55b7a4e0]" started-at="2023-04-29T10:23:27 IST" name="testMultipleContents" finished-at="2023-04-29T10:23:27 IST" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleContents -->
+        <test-method signature="testMultipleContentsInOneGo()[pri:3, instance:restassuredTest.Demo6_BasicValidations_XML@55b7a4e0]" started-at="2023-04-29T10:23:27 IST" name="testMultipleContentsInOneGo" finished-at="2023-04-29T10:23:28 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleContentsInOneGo -->
+        <test-method signature="testUsingXpath1()[pri:4, instance:restassuredTest.Demo6_BasicValidations_XML@55b7a4e0]" started-at="2023-04-29T10:23:28 IST" name="testUsingXpath1" finished-at="2023-04-29T10:23:28 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingXpath1 -->
+        <test-method signature="testUsingXpath2()[pri:5, instance:restassuredTest.Demo6_BasicValidations_XML@55b7a4e0]" started-at="2023-04-29T10:23:28 IST" name="testUsingXpath2" finished-at="2023-04-29T10:23:29 IST" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingXpath2 -->
+      </class> <!-- restassuredTest.Demo6_BasicValidations_XML -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
